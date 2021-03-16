@@ -5,16 +5,16 @@ namespace Infrastructure.Domain.Core
 {
     public abstract class BaseRepository<TAggregateRoot> : IRepository<TAggregateRoot> where TAggregateRoot : class, IAggregateRoot
     {
-        private readonly IQueryable<TAggregateRoot> Entities;
+        private readonly IQueryable<TAggregateRoot> _entities;
 
         protected BaseRepository(IDbContext dbContext)
         {
-            Entities = dbContext.Set<TAggregateRoot>();
+            _entities = dbContext.Set<TAggregateRoot>();
         }
 
         public IQueryable<TAggregateRoot> GetAll()
         {
-            return Entities;
+            return _entities;
         }
 
     }
