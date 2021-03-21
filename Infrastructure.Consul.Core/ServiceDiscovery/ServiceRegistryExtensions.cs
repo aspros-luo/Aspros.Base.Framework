@@ -6,7 +6,7 @@ using System.Net.Sockets;
 using System.Threading.Tasks;
 using Infrastructure.Consul;
 
-namespace Framework.Infrastructure.Consul.ServiceDiscovery
+namespace Infrastructure.Consul.ServiceDiscovery
 {
     public static class ServiceRegistryExtensions
     {

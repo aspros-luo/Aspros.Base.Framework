@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using Infrastructure.Consul;
 
-namespace Framework.Infrastructure.Consul.ServiceDiscovery
+namespace Infrastructure.Consul.ServiceDiscovery
 {
     public interface IServiceRegister
     {

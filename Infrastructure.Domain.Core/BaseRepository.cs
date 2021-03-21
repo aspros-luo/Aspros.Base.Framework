@@ -5,8 +5,7 @@ namespace Infrastructure.Domain.Core
 {
     public abstract class BaseRepository<TAggregateRoot> : IRepository<TAggregateRoot> where TAggregateRoot : class, IAggregateRoot
     {
-        private readonly IQueryable<TAggregateRoot> _entities;
-
+        public readonly IQueryable<TAggregateRoot> _entities;
         protected BaseRepository(IDbContext dbContext)
         {
             _entities = dbContext.Set<TAggregateRoot>();

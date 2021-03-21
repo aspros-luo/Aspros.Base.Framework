@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33e50ddc-9243-4008-b6b2-4cd5ae151a32" name="Default Changelist" comment="1">
+      <change afterPath="$PROJECT_DIR$/release/Infrastructure.Consul.Core.1.0.2.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/release/Infrastructure.Domain.Core.1.0.5.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/release/Infrastructure.Interfaces.Core.1.0.2.nupkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure.Consul.Core/Infrastructure.Consul.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Consul.Core/Infrastructure.Consul.Core.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/IServiceRegister.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/IServiceRegister.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/ServiceRegister.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/ServiceRegister.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/ServiceRegistryExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/ServiceRegistryExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure.Consul/Infrastructure.Consul.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Consul/Infrastructure.Consul.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure.Domain.Core/BaseRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Domain.Core/BaseRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure.Domain.Core/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure.Domain.Core/Infrastructure.Domain.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Domain.Core/Infrastructure.Domain.Core.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure.Interfaces.Core/Infrastructure.Interfaces.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Interfaces.Core/Infrastructure.Interfaces.Core.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure.Ioc.Core/Infrastructure.Ioc.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Ioc.Core/Infrastructure.Ioc.Core.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack.sh" beforeDir="false" afterPath="$PROJECT_DIR$/pack.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A646A1B6-9A6B-4695-9F2B-93D08BF1D8F7/34/4e29f5cd/DatabaseFacade.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/A646A1B6-9A6B-4695-9F2B-93D08BF1D8F7/a8/7b7d4795/02000020pdb.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A646A1B6-9A6B-4695-9F2B-93D08BF1D8F7/14/DbSet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infrastructure.Consul.Core/Configuration/ConfigurationRegister.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/0/HttpContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/0/IHttpContextAccessor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/0/HttpRequest.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Infrastructure.Domain.Core/pack.sh" />
+      <option value="$PROJECT_DIR$/Infrastructure.Domain.Core/BaseRepository.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Consul/Infrastructure.Consul.csproj" />
+      <option value="$PROJECT_DIR$/Infrastructure.Ioc.Core/Infrastructure.Ioc.Core.csproj" />
+      <option value="$PROJECT_DIR$/Infrastructure.Consul.Core/Infrastructure.Consul.Core.csproj" />
+      <option value="$PROJECT_DIR$/Infrastructure.Interfaces.Core/Infrastructure.Interfaces.Core.csproj" />
+      <option value="$PROJECT_DIR$/Infrastructure.Domain.Core/Infrastructure.Domain.Core.csproj" />
+      <option value="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/IServiceRegister.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/ServiceRegister.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/ServiceRegistryExtensions.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1lJElF633R0MrXuxwLYiNFOZhs5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.CSharpInteractiveConfiguration" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Publish to folder.Publish Infrastructure.Ioc.Core to folder">
+    <configuration name="Publish Infrastructure.Ioc.Core to folder" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish uuid_high="-5175751959916228847" uuid_low="-7738219891322522448" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Publish Infrastructure.Ioc.Core to custom server" type="DotNetPublishAndUpload" factoryName="Publish to custom server" temporary="true">
+      <riderPublish uuid_high="-5175751959916228847" uuid_low="-7738219891322522448" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Publish to folder.Publish Infrastructure.Ioc.Core to folder" />
+        <item itemvalue="Publish to custom server.Publish Infrastructure.Ioc.Core to custom server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33e50ddc-9243-4008-b6b2-4cd5ae151a32" name="Default Changelist" comment="" />
+      <created>1607306943668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607306943668</updated>
+      <workItem from="1607306951595" duration="1857000" />
+      <workItem from="1607311845254" duration="6073000" />
+      <workItem from="1607679574084" duration="950000" />
+      <workItem from="1615886092407" duration="8792000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1607679662145</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607679662145</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1615902733518</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615902733518</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="init" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+</project>
