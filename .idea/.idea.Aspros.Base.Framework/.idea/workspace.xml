@@ -5,20 +5,27 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33e50ddc-9243-4008-b6b2-4cd5ae151a32" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/release/Infrastructure.Consul.Core.1.0.2.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/release/Infrastructure.Domain.Core.1.0.5.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/release/Infrastructure.Interfaces.Core.1.0.2.nupkg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure.Consul.Core/Infrastructure.Consul.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Consul.Core/Infrastructure.Consul.Core.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/IServiceRegister.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/IServiceRegister.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/ServiceRegister.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/ServiceRegister.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/ServiceRegistryExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/ServiceRegistryExtensions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure.Consul/Infrastructure.Consul.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Consul/Infrastructure.Consul.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure.Domain.Core/BaseRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Domain.Core/BaseRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure.Domain.Core/Class1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure.Domain.Core/Infrastructure.Domain.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Domain.Core/Infrastructure.Domain.Core.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure.Interfaces.Core/Infrastructure.Interfaces.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Interfaces.Core/Infrastructure.Interfaces.Core.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure.Ioc.Core/Infrastructure.Ioc.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure.Ioc.Core/Infrastructure.Ioc.Core.csproj" afterDir="false" />
+    <list default="true" id="33e50ddc-9243-4008-b6b2-4cd5ae151a32" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/Infrastructure.Common.Core/DisplayForAttribute.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure.Common.Core/EnumExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure.Common.Core/Infrastructure.Common.Core.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure.Common.Core/PagingResult.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure.Common.Core/StringExtension.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure.Common.Core/SubmitResult.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure.Dto/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure.Dto/Infrastructure.Dto.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure.Middleware.Core/ApiSubActionFilter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure.Middleware.Core/Infrastructure.Middleware.Core.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure.Middleware.Core/ReWriteQueryStringMiddleware.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure.Middleware.Core/WebApiController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure.Middleware.Core/WebApiResultMiddleware.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure.Model/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure.Model/Infrastructure.Model.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/release/Infrastructure.Common.Core.1.0.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/release/Infrastructure.Middleware.Core.1.0.0.nupkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aspros.Base.Framework/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aspros.Base.Framework/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aspros.Base.Framework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aspros.Base.Framework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Base.Framework.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Base.Framework.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pack.sh" beforeDir="false" afterPath="$PROJECT_DIR$/pack.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +57,23 @@
       <option value="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/IServiceRegister.cs" />
       <option value="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/ServiceRegister.cs" />
       <option value="$PROJECT_DIR$/Infrastructure.Consul.Core/ServiceDiscovery/ServiceRegistryExtensions.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Model/Class1.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Dto/Class1.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Common.Core/Class1.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Common.Core/SubmitResult.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Common.Core/PagingResult.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Common.Core/DisplayForAttribute.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Common.Core/EnumExtensions.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Common.Core/StringExtension.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Common.Core/Infrastructure.Common.Core.csproj" />
+      <option value="$PROJECT_DIR$/Infrastructure.Middleware.Core/Class1.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Middleware.Core/RewriteQueryStringMiddleware.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Middleware.Core/ReWriteQueryStringMiddleware.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Middleware.Core/WebApiController.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Middleware.Core/WebApiResultMiddleware.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Middleware.Core/ApiSubActionFilter.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure.Middleware.Core/Infrastructure.Middleware.Core.csproj" />
+      <option value="$PROJECT_DIR$/pack.sh" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1lJElF633R0MrXuxwLYiNFOZhs5" />
@@ -95,7 +119,8 @@
       <workItem from="1607306951595" duration="1857000" />
       <workItem from="1607311845254" duration="6073000" />
       <workItem from="1607679574084" duration="950000" />
-      <workItem from="1615886092407" duration="8792000" />
+      <workItem from="1615886092407" duration="9005000" />
+      <workItem from="1616734953585" duration="11379000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1607679662145</created>
@@ -111,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615902733518</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1616296739896</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616296739896</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +168,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="init" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

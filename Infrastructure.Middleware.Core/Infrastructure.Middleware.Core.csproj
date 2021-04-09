@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <Version>1.0.0</Version>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5"/>
+        <PackageReference Include="microsoft.aspnetcore.mvc.viewfeatures" Version="2.2.0"/>
+        <PackageReference Include="Flurl" Version="2.8.2"/>
+        <PackageReference Include="Flurl.Http" Version="2.4.2"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Infrastructure.Common.Core\Infrastructure.Common.Core.csproj"/>
+    </ItemGroup>
+</Project>

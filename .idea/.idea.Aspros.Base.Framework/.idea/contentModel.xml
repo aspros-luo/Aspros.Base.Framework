@@ -3,6 +3,22 @@
   <component name="ContentModelStore">
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="Aspros.Base.Framework.sln" t="IncludeFlat" />
+      <e p="Infrastructure.Common.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DisplayForAttribute.cs" t="Include" />
+        <e p="EnumExtensions.cs" t="Include" />
+        <e p="Infrastructure.Common.Core.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Infrastructure.Common.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PagingResult.cs" t="Include" />
+        <e p="StringExtension.cs" t="Include" />
+        <e p="SubmitResult.cs" t="Include" />
+      </e>
       <e p="Infrastructure.Consul" t="IncludeRecursive">
         <e p="ACL.cs" t="Include" />
         <e p="Agent.cs" t="Include" />
@@ -96,6 +112,18 @@
           </e>
         </e>
       </e>
+      <e p="Infrastructure.Dto" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="Infrastructure.Dto.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Infrastructure.Dto.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="Infrastructure.Interfaces.Core" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="ContextAccessorExtensions.cs" t="Include" />
@@ -132,6 +160,33 @@
           </e>
         </e>
         <e p="ServiceLocator.cs" t="Include" />
+      </e>
+      <e p="Infrastructure.Middleware.Core" t="IncludeRecursive">
+        <e p="ApiSubActionFilter.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Infrastructure.Middleware.Core.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Infrastructure.Middleware.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="RewriteQueryStringMiddleware.cs" t="Include" />
+        <e p="WebApiController.cs" t="Include" />
+        <e p="WebApiResultMiddleware.cs" t="Include" />
+      </e>
+      <e p="Infrastructure.Model" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="Infrastructure.Model.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Infrastructure.Model.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
